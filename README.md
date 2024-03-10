@@ -8,8 +8,6 @@
 
 </p>
 
-\
-\
 
 ## About The Project
 
