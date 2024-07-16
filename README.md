@@ -1,4 +1,5 @@
 # Optimal Placement of Security Cameras Using Vertex Cover
+<img src="cameras.jpeg" alt="thumbnail" width="40%">
 
 ## Introduction
 This project explores the minimum vertex cover problem in graph theory. A vertex cover is a set of vertices such that each edge in the graph has at least one endpoint in this set. Finding the smallest vertex cover is an NP-hard problem. We implemented and analyzed three algorithms to approach this problem:
